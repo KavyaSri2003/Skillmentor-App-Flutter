@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987806169472",
+    "project_id": "skill-4adfa",
+    "storage_bucket": "skill-4adfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987806169472:android:71d20bc1823890fd772965",
+        "android_client_info": {
+          "package_name": "com.example.skill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUx_0m2JtmlUYIEPzm3JAaEtfaaU2VWqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
